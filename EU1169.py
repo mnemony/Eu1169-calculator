@@ -54,7 +54,7 @@ def energycalc():
                     if proteinKcal >= (0.12 * totalKcal):
                         print(product + " is source of protein")
                     if proteinKcal >= (0.2 * totalKcal):
-                        print(product + " is source of protein")    
+                        print(product + " is high protein product")    
                     if fibre >= 3:
                         print(product + " is source of fibre")
                     if fibre >= 6:
